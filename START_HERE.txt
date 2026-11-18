@@ -1,0 +1,16 @@
+SUHAN JUNEJA — HCES PROBLEM 54 MACHINE LEARNING PROJECT
+
+1) READ THE PAPER: paper/Suhan_Juneja_HCES_P54_Research_Paper.pdf (9 pages)
+2) READ THE README: README.md (methods and how to run)
+3) TO UPDATE GITHUB: GITHUB_UPDATE_GUIDE.md (GitHub Desktop steps)
+
+IMPORTANT: The big dataset ZIP is NOT included. Keep your original data on your
+computer inside the data/ folder (see data/README.md); never upload it to GitHub.
+
+Run: python -m pip install -r requirements.txt
+Then: python src/analysis.py
+Tests: python -m unittest discover -s tests -v
+Rebuild editable paper: python build_report.py
+
+Code outputs and calculations were generated from your provided real HCES data.
+The final responsibility for validating and understanding the submitted work is yours.

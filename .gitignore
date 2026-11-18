@@ -1,0 +1,13 @@
+# NEVER publish the original household-level survey microdata
+/data/*.zip
+/data/*.csv
+/data/*.xlsx
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+results/figure_data.npz
+*.log

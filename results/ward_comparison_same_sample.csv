@@ -1,0 +1,11 @@
+algorithm,k,silhouette
+"K-means (2,100 subset)",2,0.21214
+"Ward hierarchical (2,100 subset)",2,0.22487
+"K-means (2,100 subset)",3,0.21789
+"Ward hierarchical (2,100 subset)",3,0.19449
+"K-means (2,100 subset)",4,0.21506
+"Ward hierarchical (2,100 subset)",4,0.17235
+"K-means (2,100 subset)",5,0.22029
+"Ward hierarchical (2,100 subset)",5,0.13857
+"K-means (2,100 subset)",6,0.19726
+"Ward hierarchical (2,100 subset)",6,0.15069

@@ -1,0 +1,11 @@
+algorithm,k,silhouette,davies_bouldin,inertia_fit_sample
+K-means,5,0.2216,1.28163,111146.848
+K-means,3,0.21611,1.35369,151049.101
+K-means,4,0.21414,1.36311,125672.354
+K-means,2,0.21196,1.66427,176702.918
+MiniBatch k-means,2,0.2024,1.72931,180096.837
+K-means,6,0.20231,1.31264,98963.369
+MiniBatch k-means,5,0.20173,1.3467,114773.5
+MiniBatch k-means,6,0.19581,1.30911,99788.023
+MiniBatch k-means,4,0.19398,1.41474,136923.352
+MiniBatch k-means,3,0.15845,1.90833,160504.555
