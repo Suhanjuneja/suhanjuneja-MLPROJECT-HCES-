@@ -72,6 +72,3 @@ The exact coding reference is the MoSPI HCES 2022–23 official Questionnaire Ap
 
 The manuscript describes the contribution of AI-assisted tools in its declarations. Run the scripts, review the outputs, and compare the generated figures and tables to the paper. The included tests check selected feature mappings and reported metrics.
 
-## Repository instructions
-
-To publish this project at `https://github.com/Suhanjuneja/HCES-2022-23-ML-Project`, follow `GITHUB_UPDATE_GUIDE.md`. GitHub publishing requires committing and pushing the source files; downloading this package does not change the online repository.
